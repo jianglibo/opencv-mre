@@ -1,0 +1,14 @@
+{
+  "name": "opencv-mre",
+  "version-string": "latest",
+  "dependencies": [
+    "fmt",
+    {
+      "name": "opencv4",
+      "features": [
+        "cuda"
+      ]
+    },
+    "spdlog"
+  ]
+}

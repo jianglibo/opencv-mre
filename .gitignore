@@ -1,0 +1,22 @@
+TAGS
+*~
+*#*#
+*.#*
+*.o
+*.so
+.vscode/
+.idea/
+# test/
+build/
+vcpkg_installed/
+CMakeFiles/
+Testing/
+flipped.csv
+tmp.csv
+output.csv
+gtest/sample.tif
+tmp.csv.dsc
+interactive-output/
+speckle*
+dic-output/
+vcpkg/
